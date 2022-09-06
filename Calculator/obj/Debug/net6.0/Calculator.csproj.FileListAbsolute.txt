@@ -1,0 +1,15 @@
+/home/pedro/Documentos/Workspace/Balta.io/Calculator/bin/Debug/net6.0/Calculator
+/home/pedro/Documentos/Workspace/Balta.io/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/home/pedro/Documentos/Workspace/Balta.io/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/home/pedro/Documentos/Workspace/Balta.io/Calculator/bin/Debug/net6.0/Calculator.dll
+/home/pedro/Documentos/Workspace/Balta.io/Calculator/bin/Debug/net6.0/ref/Calculator.dll
+/home/pedro/Documentos/Workspace/Balta.io/Calculator/bin/Debug/net6.0/Calculator.pdb
+/home/pedro/Documentos/Workspace/Balta.io/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/home/pedro/Documentos/Workspace/Balta.io/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Documentos/Workspace/Balta.io/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/home/pedro/Documentos/Workspace/Balta.io/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/home/pedro/Documentos/Workspace/Balta.io/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/home/pedro/Documentos/Workspace/Balta.io/Calculator/obj/Debug/net6.0/Calculator.dll
+/home/pedro/Documentos/Workspace/Balta.io/Calculator/obj/Debug/net6.0/ref/Calculator.dll
+/home/pedro/Documentos/Workspace/Balta.io/Calculator/obj/Debug/net6.0/Calculator.pdb
+/home/pedro/Documentos/Workspace/Balta.io/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
