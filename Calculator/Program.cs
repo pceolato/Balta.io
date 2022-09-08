@@ -3,19 +3,23 @@ using System;
 
 namespace Calculator // Note: actual namespace depends on the project name.
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
             Console.Clear();
-            Console.WriteLine(RetornaTriangulo(15, 7.5));
-        }
 
-        static double RetornaTriangulo(int bse, double altura) 
-        {
-            var area = (bse * altura) / 2;
-            return area;
-        }
+            Console.WriteLine("Primeiro valor: ");
+            float v1 = float.Parse(Console.ReadLine());
 
+            Console.WriteLine("Segundo valor: ");
+            float v2 = float.Parse(Console.ReadLine());
+
+            Console.WriteLine("");
+
+            float resultado = v1 + v2;
+
+            Console.WriteLine($"O resultado da soma é {resultado}");
+        }
     }
 }
