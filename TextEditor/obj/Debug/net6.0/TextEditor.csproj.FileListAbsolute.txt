@@ -1,0 +1,15 @@
+/home/pedro/Documentos/Workspace/Balta.io/TextEditor/bin/Debug/net6.0/TextEditor
+/home/pedro/Documentos/Workspace/Balta.io/TextEditor/bin/Debug/net6.0/TextEditor.deps.json
+/home/pedro/Documentos/Workspace/Balta.io/TextEditor/bin/Debug/net6.0/TextEditor.runtimeconfig.json
+/home/pedro/Documentos/Workspace/Balta.io/TextEditor/bin/Debug/net6.0/TextEditor.dll
+/home/pedro/Documentos/Workspace/Balta.io/TextEditor/bin/Debug/net6.0/ref/TextEditor.dll
+/home/pedro/Documentos/Workspace/Balta.io/TextEditor/bin/Debug/net6.0/TextEditor.pdb
+/home/pedro/Documentos/Workspace/Balta.io/TextEditor/obj/Debug/net6.0/TextEditor.csproj.AssemblyReference.cache
+/home/pedro/Documentos/Workspace/Balta.io/TextEditor/obj/Debug/net6.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Documentos/Workspace/Balta.io/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfoInputs.cache
+/home/pedro/Documentos/Workspace/Balta.io/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfo.cs
+/home/pedro/Documentos/Workspace/Balta.io/TextEditor/obj/Debug/net6.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/pedro/Documentos/Workspace/Balta.io/TextEditor/obj/Debug/net6.0/TextEditor.dll
+/home/pedro/Documentos/Workspace/Balta.io/TextEditor/obj/Debug/net6.0/ref/TextEditor.dll
+/home/pedro/Documentos/Workspace/Balta.io/TextEditor/obj/Debug/net6.0/TextEditor.pdb
+/home/pedro/Documentos/Workspace/Balta.io/TextEditor/obj/Debug/net6.0/TextEditor.genruntimeconfig.cache
