@@ -48,12 +48,11 @@ namespace StopWatch
 
         static void Start(int time)
         {
-            int currentTime = 0;    
+            int currentTime;    
 
-            while (currentTime != time)
+            for (currentTime = 1; currentTime != time; currentTime++)
             {
-                Console.Clear();
-                currentTime++;
+                Console.Clear(); 
                 Console.WriteLine(currentTime);
                 Thread.Sleep(1000);
             }
