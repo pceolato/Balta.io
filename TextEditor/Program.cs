@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
+using System.IO;
 
 namespace TextEditor
 {
@@ -40,7 +41,32 @@ namespace TextEditor
 
         static void Edit()
         {
+            Console.Clear();
+            Console.WriteLine("Digite seu texto abaixo (ESC para sair)");
+            Console.WriteLine("--------------");
+            string text = "";
 
+            
+            do
+            {
+                text += Console.ReadLine();
+                text += Environment.NewLine;
+            }
+            while(Console.ReadKey().Key != ConsoleKey.Escape); 
+
+            Console.Write(text);
+        }
+    
+        static void Save(string text)
+        {
+            Console.Clear();
+            Console.WriteLine("Qual caminho para salvar o arquivo?");
+            var path = Console.ReadLine();
+
+            using(var file = new StreamWriter(path))
+            {
+                file.Write(text);
+            } 
         }
     }
 }
