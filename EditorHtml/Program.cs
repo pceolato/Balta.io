@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System;
 
 namespace EditorHtml 
 {
@@ -6,7 +7,7 @@ namespace EditorHtml
     {
         static void Main(string[] args)
         {
-            Menu.Show()
+            Menu.Show();
         }
     }
 }

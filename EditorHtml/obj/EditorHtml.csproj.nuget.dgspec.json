@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/pedro/fe4af8fa-b889-406b-9d16-0b3f69a231d6/home/pedro/Documentos/Workspace/Balta.io/EditorHtml/EditorHtml.csproj": {}
+    "/home/pedro/Documentos/Dev/Balta.io/EditorHtml/EditorHtml.csproj": {}
   },
   "projects": {
-    "/media/pedro/fe4af8fa-b889-406b-9d16-0b3f69a231d6/home/pedro/Documentos/Workspace/Balta.io/EditorHtml/EditorHtml.csproj": {
+    "/home/pedro/Documentos/Dev/Balta.io/EditorHtml/EditorHtml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/pedro/fe4af8fa-b889-406b-9d16-0b3f69a231d6/home/pedro/Documentos/Workspace/Balta.io/EditorHtml/EditorHtml.csproj",
+        "projectUniqueName": "/home/pedro/Documentos/Dev/Balta.io/EditorHtml/EditorHtml.csproj",
         "projectName": "EditorHtml",
-        "projectPath": "/media/pedro/fe4af8fa-b889-406b-9d16-0b3f69a231d6/home/pedro/Documentos/Workspace/Balta.io/EditorHtml/EditorHtml.csproj",
+        "projectPath": "/home/pedro/Documentos/Dev/Balta.io/EditorHtml/EditorHtml.csproj",
         "packagesPath": "/home/pedro/.nuget/packages/",
-        "outputPath": "/media/pedro/fe4af8fa-b889-406b-9d16-0b3f69a231d6/home/pedro/Documentos/Workspace/Balta.io/EditorHtml/obj/",
+        "outputPath": "/home/pedro/Documentos/Dev/Balta.io/EditorHtml/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/pedro/.nuget/NuGet/NuGet.Config"
